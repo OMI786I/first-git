@@ -1,4 +1,7 @@
 div {
-  background-color: aliceblue;
+  background-color: rgb(83, 166, 238);
   padding: 10px;
+  margin-bottom: 10px;
+  color: white;
+  font-family: "Times New Roman", Times, serif;
 }
